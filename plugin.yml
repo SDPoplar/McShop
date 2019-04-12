@@ -1,0 +1,11 @@
+name: SdPoplarShop
+main: com.seadrip.mc.shop.SdPoplarShop
+version: 0.1
+api-version: 1.13
+author: SeaDrip::Poplar
+commands:
+    sdshop:
+        description: "show all goods"
+        usage: /sdshop action [goods_name] [goods_amount]
+        permission: "sdshop.*"
+        permission-message: "need permission"
