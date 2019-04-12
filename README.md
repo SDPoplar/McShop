@@ -1,9 +1,9 @@
 # McShop
 a shell shop plugin for minecraft
 
-# Usage
+## Usage
 /sdshop list|buy|find [goods_name] [buy_amount]
 
-# Env & Depends
+## Env & Depends
 Paper 1.13
 Vault + Essentials economy
